@@ -1,1 +1,4 @@
-Core Studio/Lab Interaction, Spring 2016
+# Core Studio/Lab Interaction, Spring 2016
+
+Contents
+* [Syllabus](Syllabus.md)
