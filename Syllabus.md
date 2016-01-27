@@ -22,27 +22,27 @@ Daniel Brewster
 
 Studio: This course exposes students to thorough and elaborate interactive concepts and techniques for applications. It is an extensive investigation in the interface, the mechanism, the controls and the aims of interactive works. Students will learn how to design and develop complex interactive projects and understand how to undertake a comprehensive research and direct their thinking process from brainstorming to final outcome. They will be given the tools to conceive, plan and develop an interactive system and they will become aware of the importance of their role in the development of interactive media.
 
-Lab: This course serves as a complement to Core Studio Interaction. The assignments are build to work in tandem with the projects students are developing in the studio class. The lab is designed around a series of small workshops that teach beginning and intermediate interaction design through a hands-on engagement with HTML and CSS.
+Lab: This course serves as a complement to Core Studio Interaction. The assignments are built to work in tandem with the projects students are developing in the studio class. The lab is designed around a series of small workshops that teach beginning and intermediate interaction design through a hands-on engagement with HTML and CSS.
 
 # Outline
 
 |Week|Date|Notes|
 |:---:|:---:|:---|
-|Week 1|TK|Studio: Introductions. Review syllabus. Begin Project 1 concepts.<br>Lab: Introductions. Build a very simple webpage.|
-|Week 2|TK|Studio: Critique Project 1 concepts. Begin Project 1 production.<br>Lab: Build a less simple webpage.|
-|Week 3|TK|Studio: Continue Project 1 production.<br>Lab: Layout I|
-|Week 4|TK|Studio: Continue Project 1 production.<br>Lab: Layout II – Flexbox|
-|Week 5|TK|Studio: Critique Project 1. Begin Project 2 prototypes.<br>Lab: Layout II – Flexbox (cont.)|
-|Week 6|TK|Studio: Continue Project 2 prototypes. Midterm reviews.<br>Lab: Media queries and responsivity|
-|Week 7|TK|Studio: Continue Project 2 prototypes.<br>Lab: Extended html + semantic elements|
-|Week 8|TK|Studio: Critique Project 2 prototypes. Begin Project 2 production.<br>Lab: Working with rich media in HTML and JS|
-|Week 9|TK|Studio: Critique Project 2 production. TBD.<br>Lab: Procedural design + color|
-|Week 10|TK|Studio: Begin Project 3 concepts.<br>Lab: Common patterns|
-|Week 11|TK|Studio: Continue Project 3 concepts.<br>Lab: Working with APIs|
-|Week 12|TK|Studio: Critique Project 3 concepts. Begin Project 3 production.<br>Lab: TBA|
-|Week 13|TK|Studio: Continue Project 3 production.<br>Lab: TBA|
-|Week 14|TK|Studio: Continue Project 3 production.<br>Lab: TBA|
-|Week 15|TK|Studio: Critique Project 3.<br>Lab: TBA|
+|Week 1|1/25|Studio: Introductions. Review syllabus. Begin Project 1 concepts.<br>Lab: Introductions. Build a very simple webpage.|
+|Week 2|2/1|Studio: Critique Project 1 concepts. Begin Project 1 production.<br>Lab: Build a less simple webpage.|
+|Week 3|2/8|Studio: Continue Project 1 production.<br>Lab: Layout I|
+|Week 4|2/15|Studio: Continue Project 1 production.<br>Lab: Layout II – Flexbox|
+|Week 5|2/22|Studio: Critique Project 1. Begin Project 2 prototypes.<br>Lab: Layout II – Flexbox (cont.)|
+|Week 6|2/29|Studio: Continue Project 2 prototypes. Midterm reviews.<br>Lab: Media queries and responsivity|
+|Week 7|3/7|Studio: Continue Project 2 prototypes.<br>Lab: Extended html + semantic elements|
+|Week 8|3/14|Studio: Critique Project 2 prototypes. Begin Project 2 production.<br>Lab: Working with rich media in HTML and JS|
+|Week 9|3/28|Studio: Critique Project 2 production. TBD.<br>Lab: Procedural design + color|
+|Week 10|4/4|Studio: Begin Project 3 concepts.<br>Lab: Common patterns|
+|Week 11|4/11|Studio: Continue Project 3 concepts.<br>Lab: Working with APIs|
+|Week 12|4/18|Studio: Critique Project 3 concepts. Begin Project 3 production.<br>Lab: TBA|
+|Week 13|4/25|Studio: Continue Project 3 production.<br>Lab: TBA|
+|Week 14|5/2|Studio: Continue Project 3 production.<br>Lab: TBA|
+|Week 15|5/9|Studio: Critique Project 3.<br>Lab: TBA|
 
 # Learning Outcomes
 
@@ -176,14 +176,17 @@ Lab:
 # Grading Standards
 
 **A [4.0; 96–100%]**  
-Work of exceptional quality, which often goes beyond the stated goals of the course 
+Work of exceptional quality, which often goes beyond the stated goals of the course
 
 **A- [3.7; 91–95%]**  
-Work of very high quality 
+Work of very high quality
+
 **B+ [3.3; 86–90%]**  
-Work of high quality that indicates substantially higher than average abilities 
+Work of high quality that indicates substantially higher than average abilities
+
 **B [3.0; 81–85%]**  
-Very good work that satisfies the goals of the course 
+Very good work that satisfies the goals of the course
+
 **B- [2.7; 76–80%]**  
 Good work
 
@@ -204,7 +207,8 @@ Failure, no credit
 
 ## Grade of W
 
-The grade of W may be issued by the Office of the Registrar to a student who officially withdraws from a course within the applicable deadline. There is no academic penalty, but the grade will appear on the student transcript. A grade of W may also be issued by an instructor to a graduate student (except at Parsons and Mannes) who has not completed course requirements nor arranged for an Incomplete. 
+The grade of W may be issued by the Office of the Registrar to a student who officially withdraws from a course within the applicable deadline. There is no academic penalty, but the grade will appear on the student transcript. A grade of W may also be issued by an instructor to a graduate student (except at Parsons and Mannes) who has not completed course requirements nor arranged for an Incomplete.
+
 ## Grade of Z
 
 The grade of Z is issued by an instructor to a student who has not attended or not completed all required work in a course but did not officially withdraw before the withdrawal deadline. It differs from an “F,” which would indicate that the student technically completed requirements but that the level of work did not qualify for a passing grade. 
