@@ -10,9 +10,9 @@
 ## Lab: Wednesday 1/27
 
 - Introductions
-- Demo: Building a simple webpage
-- Workshop: Haiku
-- Demo: Saving work to Github
+- Demo — Building a simple webpage
+- Workshop — Haiku
+- Demo — Saving work to Github
 
 ## Studio: Friday 1/29
 
