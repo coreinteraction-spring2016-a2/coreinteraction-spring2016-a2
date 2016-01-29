@@ -2,6 +2,8 @@
 
 Contents
 * [Syllabus](Syllabus.md)
+* [Project 1](Project1.md)
+* [Research](Research.md)
 
 Schedule
 * [Week 1](Schedule/Week1.md)
