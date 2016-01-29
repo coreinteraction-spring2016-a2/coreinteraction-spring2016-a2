@@ -22,39 +22,39 @@ The website should include:
 
 ### Week 4
 
-Satoe
-Grant
+* Satoe
+* Grant
 
 ### Week 5
 
-Erin
-Madeline
+* Erin
+* Madeline
 
 ### Week 6
 
-Yoonji
-Tatyana
+* Yoonji
+* Tatyana
 
 ### Week 7
 
-Lauren
-Peter
+* Lauren
+* Peter
 
 ### Week 8
 
-Lindsay
-Cristina
+* Lindsay
+* Cristina
 
 ### Week 9
 
-Dylan
-Tamir
+* Dylan
+* Tamir
 
 ### Week 10
 
-Chuck
-Steven
+* Chuck
+* Steven
 
 ### Week 11
 
-Gabriel
+* Gabriel

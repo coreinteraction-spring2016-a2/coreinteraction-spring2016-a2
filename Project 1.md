@@ -9,9 +9,9 @@ You will make two interactive versions of this text that convey your interpretat
 Both versions of the text will be implemented as websites using HTML and CSS. Both may have a single or multiple pages. Both should be able to be viewed on large (desktop) and small (mobile) screens. You should use no more than two typefaces. No images.
 
 Consider:
-— How does hyperlinking (internal and external) enhance the meaning of the text?
-— How does your interpretation of the text shape the way the information is presented?
-— Does the experience change when viewing the page on a larger or smaller surface area? If so, how?
-— How does the experience of a linear website compare to the experience of a more non-linear one?
-— How does typography reinforce your perspective?
-— How does your typography affect the quality of the reading experience? Pay attention to typographic details: special characters, leading, words per line, etc.
+* How does hyperlinking (internal and external) enhance the meaning of the text?
+* How does your interpretation of the text shape the way the information is presented?
+* Does the experience change when viewing the page on a larger or smaller surface area? If so, how?
+* How does the experience of a linear website compare to the experience of a more non-linear one?
+* How does typography reinforce your perspective?
+* How does your typography affect the quality of the reading experience? Pay attention to typographic details: special characters, leading, words per line, etc.

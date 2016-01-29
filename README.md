@@ -4,8 +4,8 @@ Contents
 * [Syllabus](Syllabus.md)
 
 Schedule
-* → [Week 1](Schedule/Week1.md)
-* Week 2
+* [Week 1](Schedule/Week1.md)
+* → [Week 2](Schedule/Week2.md)
 * Week 3
 * Week 4
 * Week 5
