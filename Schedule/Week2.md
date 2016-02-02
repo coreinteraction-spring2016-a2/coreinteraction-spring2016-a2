@@ -4,7 +4,7 @@
 
 - _Due_ — Project 1, selected text and written concepts
 - Crit Project 1 progress, small groups
-- In class — Work on Project 1
+- In-class — Work on Project 1
 
 ## Lab: Wednesday 2/3
 
