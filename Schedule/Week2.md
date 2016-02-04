@@ -7,8 +7,9 @@
 - In-class — Work on Project 1
 
 ## Lab: Wednesday 2/3
-
-- In-class — Make personal homepage
+- Demo — Advanced selectors, links, and remote resources
+- In-class — Replace missing HTML + CSS
+- Homework — Make personal homepage
 
 ## Studio: Friday 2/5
 
