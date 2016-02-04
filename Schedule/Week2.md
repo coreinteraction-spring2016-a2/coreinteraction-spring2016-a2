@@ -7,6 +7,7 @@
 - In-class — Work on Project 1
 
 ## Lab: Wednesday 2/3
+- _Due_ — Haiku exercises
 - Demo — Advanced selectors, links, and remote resources
 - In-class — Replace missing HTML + CSS
 - Homework — Make personal homepage
