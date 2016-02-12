@@ -8,8 +8,8 @@ Contents
 Schedule
 * [Week 1](Schedule/Week1.md)
 * [Week 2](Schedule/Week2.md)
-* → [Week 3](Schedule/Week3.md)
-* [Week 4](Schedule/Week4.md)
+* [Week 3](Schedule/Week3.md)
+* → [Week 4](Schedule/Week4.md)
 * [Week 5](Schedule/Week5.md)
 * Week 6
 * Week 7
