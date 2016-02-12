@@ -2,7 +2,7 @@
 
 ## Studio: Tuesday 2/16
 
-- _Due_ — Project 1, draft builds
+- _Due_ — Project 1, working builds of both linear and non-linear versions
 - Crit Project 1 progress, small groups
 - In-class — Work on Project 1
 
