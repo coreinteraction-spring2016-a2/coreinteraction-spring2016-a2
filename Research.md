@@ -22,7 +22,7 @@ The website should include:
 
 ### Week 4
 
-* Satoe
+* Satoe — OKFocus
 * Grant
 
 ### Week 5
@@ -38,7 +38,7 @@ The website should include:
 ### Week 7
 
 * Lauren
-* Peter
+* Peter — Moniker
 
 ### Week 8
 
