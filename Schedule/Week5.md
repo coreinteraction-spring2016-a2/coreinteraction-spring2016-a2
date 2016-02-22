@@ -12,3 +12,5 @@
 * Homework – add single view to flexbox collection page
 
 ## Studio: Friday 2/26
+
+* Presentations — Erin and Madeline
