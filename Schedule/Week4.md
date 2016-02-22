@@ -7,6 +7,11 @@
 - In-class — Work on Project 1
 
 ## Lab: Wednesday 2/17
+- _Due_ — Week 3 homework
+- Week 3 homework review
+- In-class – Positioning exercises
+- In-class – Work on project 1
+- Homework – Pick a mechanic or interaction to dissect
 
 ## Studio: Friday 2/19
 
