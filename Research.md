@@ -28,7 +28,7 @@ The website should include:
 ### Week 5
 
 * Erin
-* Madeline
+* Madeline — Project Projects
 
 ### Week 6
 
