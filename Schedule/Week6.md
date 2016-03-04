@@ -9,4 +9,4 @@
 
 ## Studio: Friday 3/4
 
-* Presentations — Yoonji and Tatyana
+* Presentations — Erin, Yoonji, and Tatyana
