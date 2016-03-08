@@ -11,8 +11,8 @@ Schedule
 * [Week 3](Schedule/Week3.md)
 * [Week 4](Schedule/Week4.md)
 * [Week 5](Schedule/Week5.md)
-* → [Week 6](Schedule/Week6.md)
-* Week 7
+* [Week 6](Schedule/Week6.md)
+* → [Week 7](Schedule/Week7.md)
 * Week 8
 * Week 9
 * Week 10
