@@ -10,3 +10,4 @@
 ## Studio: Friday 3/4
 
 * Presentations — Erin, Yoonji, and Tatyana
+* In class — Work on Project 2, desk crits

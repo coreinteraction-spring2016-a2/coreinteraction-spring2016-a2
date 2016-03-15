@@ -15,4 +15,4 @@
 
 * Presentations — Erin and Madeline
 * Discuss Olia Lialina, A Vernacular Web [1](http://art.teleportacia.org/observation/vernacular/) & [2](http://contemporary-home-computing.org/vernacular-web-2/)
-* Begin Project 2
+* Begin [Project 2](../Project2.md)

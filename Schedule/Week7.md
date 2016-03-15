@@ -27,3 +27,4 @@ MIDTERM REVIEWS
 ## Studio: Friday 3/11
 
 * Presentations — Lauren and Peter
+* In class — Work on Project 2, desk crits
