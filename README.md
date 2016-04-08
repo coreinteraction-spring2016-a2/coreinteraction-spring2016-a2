@@ -3,6 +3,7 @@
 Contents
 * [Syllabus](Syllabus.md)
 * [Project 1](Project1.md)
+* [Project 2](Project2.md)
 * [Research](Research.md)
 
 Schedule
@@ -14,6 +15,7 @@ Schedule
 * [Week 6](Schedule/Week6.md)
 * [Week 7](Schedule/Week7.md)
 * [Week 8](Schedule/Week8.md)
+* Break
 * → [Week 9](Schedule/Week9.md)
 * [Week 10](Schedule/Week10.md)
 * [Week 11](Schedule/Week11.md)
