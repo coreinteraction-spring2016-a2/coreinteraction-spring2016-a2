@@ -1,0 +1,92 @@
+/* Basic styling for body */
+
+body {
+  margin: 0;
+  font-family: arial;
+}
+
+/* 
+  Utility classes for showing and hiding
+  elements and setting color backgrounds
+*/
+.is-hidden { opacity: 0 !important; }
+
+.blue { background-color: blue; }
+.red { background-color: red; }
+.purple { background-color: purple; }
+.yellow { background-color: yellow; }
+.cyan { background-color: cyan; }
+.turquoise { background-color: turquoise; }
+.green { background-color: green; }
+.navy { background-color: navy; }
+.fuchsia { background-color: fuchsia; }
+
+/* Username form styles */
+
+.username-form {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-left: -160px;
+  margin-top: -60px;
+  width: 300px;
+  height: 100px;
+  padding: 20px;
+  background: white;
+  box-shadow: 0 0 20px rgba(0,0,0,.125);
+  opacity: 1;
+  transition: opacity .2s;
+}
+
+.username-form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Color input styles */
+
+.color-input {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  transition: opacity .2s;
+  background: white;
+  box-shadow: 0 0 20px rgba(0,0,0,.125);
+}
+
+.color-options {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+}
+
+.color-options-label {
+  padding: 20px;
+}
+
+.color-option {
+  display: block;
+  width: 40px;
+  height: 40px;
+  transition: opacity .2s;
+}
+
+.color-option:hover {
+  opacity: .7;
+}
+
+/* Message styles */
+
+.message {
+  padding: 40px;
+  margin-right: 40px;
+}
+
+.message.from-current-user {
+  text-align: right;
+  margin-right: 0;
+  margin-left: 40px;
+}

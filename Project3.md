@@ -14,7 +14,13 @@ Consider: What constitutes a “chat”? Do the “messages” appear clearly-de
 
 ## Setup
 
-Download the chat client script from Github and include it on your page. The chat client has two functions:
+Include the chat script on your page:
+
+```html
+  <script src="https://s3.amazonaws.com/ci-sp-2016/ci-chat.js"></script>
+```
+
+The chat client has two functions:
 
 ### `sendMessage`
 
