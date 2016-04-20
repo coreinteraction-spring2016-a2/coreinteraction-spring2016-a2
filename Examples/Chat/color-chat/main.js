@@ -110,3 +110,24 @@ Chat.onMessage(function (data) {
   // Append message to the container on the page
   $('.message-container').append(message);
 });
+
+// This is where we handle changes in active user count.
+// We're going to lighten the background based on the number
+// of users on the page
+Chat.onUserCountChange(function (currentCount) {
+  // We'll say that maximum lightness happens at 20 users,
+  // so we'll treat all counts greater than 20 the same as 20
+  if (currentCount > 20) {
+    currentCount = 20;
+  }
+
+  // How close we are to twenty users determines the lightness.
+  // It's a percentage so we multiply by 100.
+  var lightness = Math.round((currentCount / 20) * 100);
+
+  // Actually set the background color. HSL is often the easiest
+  // color format to use when modifying color dynamically
+  $('body').css({
+    backgroundColor: 'hsl(0,0%,' + lightness + '%)'
+  });
+});

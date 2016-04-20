@@ -19,3 +19,8 @@ Chat.onMessage(function (data) {
   message.innerHTML += 'Value: ' + data.value;
   messageContainer.appendChild(message);
 });
+
+Chat.onUserCountChange(function (newCount) {
+  var userCountElement = document.querySelector('.user-count');
+  userCountElement.innerHTML = newCount;
+});
